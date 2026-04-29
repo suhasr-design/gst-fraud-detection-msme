@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { TRANSLATIONS, LANGUAGES } from "./translations";
 
-const API = "http://localhost:8000";
+const API = "https://gst-fraud-detection-msme.onrender.com";
 
 const COLORS = {
   bg: "#0D1B2A", card: "#142A3D", cardDark: "#0A1E2F",
